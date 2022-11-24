@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Some personnal minimal working example I share, testing PostgreSQL features !
+You already how much I love playing with PostgreSQL ... No ? 
+
+You can find here some personnal minimal working example (MWE) that I share, testing PostgreSQL features !
 
 ## How to use 
 
